@@ -63,3 +63,10 @@ Includes evaluation using accuracy and F1-score.
 ![Task 3 Graph](task3_graph.png)
 
 ---
+✅ Valid Login:  
+![login screenshot](test_login..png)  
+
+❌ Invalid Login:  
+![Invalid screenshot](test_invalid.png)  
+
+---
