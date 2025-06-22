@@ -10,19 +10,12 @@
 | Code Implementation     | GitHub Repo          | 50%    |  
 | Ethical Reflection      | Markdown File        | 10%    |  
 | Presentation            | 3-min Video          | 10%    |  
-✅ Valid Login:  
-![login screenshot](test_login..png)  
-
-❌ Invalid Login:  
-![Invalid screenshot](test_invalid.png)  
-
----
 
 ---
 
 ## 🧠 **Part 1: Theoretical Analysis**  
 
-### Q1: AI Code Generation  
+## Q1: AI Code Generation  
 **Benefits**:  
 ```diff
 + 40% faster development time  
