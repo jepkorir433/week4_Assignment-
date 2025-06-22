@@ -44,7 +44,7 @@ Selenium-based automated test for login functionality (valid/invalid credentials
 **Screenshots:**  
 
 ✅ Valid Login:  
-![login screenshot](test_login.png)  
+![login screenshot](test_login..png)  
 
 ❌ Invalid Login:  
 ![Invalid screenshot](test_invalid.png)  
