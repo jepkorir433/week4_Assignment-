@@ -17,7 +17,6 @@
 
 ## Q1: AI Code Generation  
 **Benefits**:  
-```diff
 + 40% faster development time  
 + Context-aware suggestions
 
